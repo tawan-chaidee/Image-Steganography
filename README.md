@@ -2,7 +2,7 @@
 
 An educational image-steganography application that hides a symmetrically encrypted message inside an image while preserving its visible appearance.
 
-[Open the interactive notebook in Colab](https://colab.research.google.com/github/tawan-chaidee/Image-Steganography/blob/main/Image_sternography.ipynb)
+[Open the interactive notebook in Colab](https://colab.research.google.com/github/tawan-chaidee/Image-Steganography/blob/main/image-steganography.ipynb)
 
 ## Overview
 
@@ -48,7 +48,7 @@ python main.py
 
 Open the notebook directly in Colab:
 
-[Launch Image Steganography in Colab](https://colab.research.google.com/github/tawan-chaidee/Image-Steganography/blob/main/Image_sternography.ipynb)
+[Launch Image Steganography in Colab](https://colab.research.google.com/github/tawan-chaidee/Image-Steganography/blob/main/image-steganography.ipynb)
 
 ## Limitations
 
